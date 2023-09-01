@@ -15,6 +15,7 @@ section{
 header{
     background-color: #1a1a1a;
     height: 120px;
+    padding: 10px;
 }
 header nav a{
     color: #fff;
@@ -24,5 +25,16 @@ header .logo{
     float: left;
 }
 header nav ul li{
-    float:left
+    float: left;
+    margin: 20px;
+}
+section{
+    margin: 0 auto;
+    width: 1200px;
+}
+header .logo img{
+    width: 110px;
+}
+header nav{
+    padding-top: 20px;
 }
